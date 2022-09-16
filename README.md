@@ -1,3 +1,12 @@
+
+<h2 align="center">Hi there, I'm <a href="https://davron-react-lesson-4.netlify.app" target="_blank">Davron</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h3 align="center">React web-developer student, IT news writer from Uzbekistan</h3>
+
+
+
+[Demo Link](https://davron-react-crud-task5-v2.netlify.app)
+<br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
