@@ -1,0 +1,11 @@
+
+body{
+  height: 100vh;
+  background-color: #f8768e;
+  /* background-color: #f5f5f5; */
+
+}
+.app{
+  display: flex;
+  justify-content: center;
+}

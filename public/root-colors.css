@@ -1,0 +1,34 @@
+:root{
+    --bush: #363377;
+    --code-css: #007dbc;
+    --code-html: #ff5733;
+    --code-node: #026e00;
+    --code-git: #f05133;
+    --pagination-active-link: #20232a;
+    --pagination-not-active-link: #53586a;
+    --nav-link-hover-color: #0178cb;
+    --nav-bar-border-color: #d1dafe;
+    --nav-link-color: #3d425c;
+    --mode-bg-gradient: linear-gradient(#39598a,#79d7ed);
+    --mode-toggle-border: #fff;
+    --scroll-btn-color: #20232a;
+    --table-bg: #f7f7f3;
+    --info-bg: #f9fafb;
+    --nav-link-bg: #6c6e72;
+    --black-dark: rgba(38,41,58,.8);
+    --black-light: rgba(38,41,58,.6);
+    --black-brighter: rgba(38,41,58,.1);
+    --black-superLight: rgba(38,41,58,.04);
+    --grey-700: hsla(0,0%,88%,.7);
+    --grey-400: hsla(0,0%,88%,.4);
+    --button-tocLink: #00a0fc;
+    --button-purple: #b561f9;
+    --button-instagram: #ff0084;
+    --button-facebook: #3b5998;
+    --button-twitter: #1da1f2;
+    --button-linkedin: #0077b5;
+    --button-telegram: #50a0ce;
+    --button-email: #eeecec;
+    
+    
+}

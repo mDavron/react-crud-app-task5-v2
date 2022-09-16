@@ -1,0 +1,12 @@
+
+.container{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+table{
+    margin-top: 0.7rem;
+}
+button{
+    cursor: pointer;
+}
